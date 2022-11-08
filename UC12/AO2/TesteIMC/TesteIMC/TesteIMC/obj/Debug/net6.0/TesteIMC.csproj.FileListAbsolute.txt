@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.deps.json
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.dll
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\bin\Debug\net6.0\TesteIMC.pdb
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.AssemblyInfo.cs
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.dll
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\refint\TesteIMC.dll
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\TesteIMC.pdb
+C:\Users\Alex\Desktop\EstudoSenai\ATIVIDADES\UC12\UC12\AO2\TesteIMC\TesteIMC\TesteIMC\obj\Debug\net6.0\ref\TesteIMC.dll
